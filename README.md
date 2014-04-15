@@ -3,7 +3,7 @@ WWDC-2014-Submissions
 
 A curated list of all the WWDC Submissions in one place
 
-Tosin Afolabi - - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
+Tosin Afolabi - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
 
 Kyle Ryan - [Source](https://github.com/kylry/kyleryan), [Video](https://www.facebook.com/photo.php?v=10152013038854149), [Twitter](http://twitter.com/@kylry)
 
@@ -26,3 +26,12 @@ Isaac Rodríguez - Source, [Video](https://www.youtube.com/watch?v=LQFMa-yRrlk),
 Chris Galzerano - Source, [Video](https://www.youtube.com/watch?v=XImIArqS3ww&feature=youtu.be), [Twitter](https://twitter.com/@chrisgalz)
 
 Jonah Grant - Source, [Video](https://www.facebook.com/photo.php?v=10203790746388689), [Twitter](https://twitter.com/@jonahgrant)
+
+Conrad Kramer - [Source](https://github.com/conradev/WWDC2014), Video, [Twitter](https://twitter.com/@conradev)
+
+
+Isaiah Turner - Source, [Video](https://www.facebook.com/photo.php?v=712518992128745), [Twitter](https://twitter.com/@IsaiahJTurner)
+
+Ahmed Fathi - Source, Video, Twitter
+
+Canzhi Ye - Source, Video, Twitter
