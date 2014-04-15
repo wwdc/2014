@@ -43,6 +43,8 @@ Ben Pasternak - Source, [Video](https://www.youtube.com/watch?v=uuAS4n3zozs&feat
 
 Nate Chiger - [Source](https://github.com/natechiger/WWDC-2014-Scholarship), Video, [Twitter](http://twitter.com/natechiger)
 
+Sanjeet Suhag - [Source](https://github.com/sanjeetsuhag/WWDC-2014-Scholarship-App), Video, [Twitter](https://twitter.com/@sanjeetsuhag)
+
 Farzad Nazifi - Source, Video, Twitter
 
 Ahmed Fathi - Source, Video, Twitter
@@ -54,4 +56,16 @@ Not On the Facebook Group
 
 Michal Smialko - [Source](https://github.com/Moriquendi/WWDC2014), Video, [Twitter](https://twitter.com/@msmialko)
 
-Victor Ilisei = [Source](https://github.com/TechGeniusApps/WWDC-App), Video, [Twitter](https://twitter.com/@GeekyLemon)
+Victor Ilisei - [Source](https://github.com/TechGeniusApps/WWDC-App), Video, [Twitter](https://twitter.com/@GeekyLemon)
+
+Sam Turner - [Source](https://github.com/samturner/wwdc-scholarship-2014), [Video](https://www.youtube.com/watch?v=lu_0gVWN8hA&feature=youtu.be), [Twitter](http://www.twitter.com/rheotron)
+
+Andrew Breckenridge - [Source](https://github.com/AndrewSB/wwdc-scholarship-app), Video, Twitter
+
+iPhonig - [Source](https://github.com/iPhonig/WWDC-2014-Student-Scholarship-App), Video, Twitter
+
+Lea Marolt Sonnenschein - [Source](https://github.com/leamars/LeaMaroltSonnenschein), Video, Twitter
+
+Justin Loew - [Source](https://github.com/jloloew/BrailleLearner), Video, Twitter
+
+Maijid Moujaled - [Source](https://github.com/DrJid/Personal-Portfolio-app), Video, [Twitter](https://twitter.com/@DrJid)
