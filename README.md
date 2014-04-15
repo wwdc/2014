@@ -45,6 +45,8 @@ Nate Chiger - [Source](https://github.com/natechiger/WWDC-2014-Scholarship), Vid
 
 Sanjeet Suhag - [Source](https://github.com/sanjeetsuhag/WWDC-2014-Scholarship-App), Video, [Twitter](https://twitter.com/@sanjeetsuhag)
 
+Mert Dümenci - Source, [Video](http://www.youtube.com/watch?v=z_se6loQj-w), [Twitter](http://twitter.com/mertdumenci)
+
 Farzad Nazifi - Source, Video, Twitter
 
 Ahmed Fathi - Source, Video, Twitter
