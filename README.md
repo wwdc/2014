@@ -41,8 +41,16 @@ Moshe Berman - [Source](http://github.com/mosheberman/MosheBerman-iOS), Video, [
 
 Ben Pasternak - Source, [Video](https://www.youtube.com/watch?v=uuAS4n3zozs&feature=youtu.be), [Twitter](http://twitter.com/@BenPasternak)
 
+Nate Chiger - [Source](https://github.com/natechiger/WWDC-2014-Scholarship), Video, [Twitter](http://twitter.com/natechiger)
+
 Farzad Nazifi - Source, Video, Twitter
 
 Ahmed Fathi - Source, Video, Twitter
 
 Canzhi Ye - Source, Video, Twitter
+
+Not On the Facebook Group 
+
+Michal Smialko - [Source](https://github.com/Moriquendi/WWDC2014), Video, [Twitter](https://twitter.com/@msmialko)
+
+Victor Ilisei = [Source](https://github.com/TechGeniusApps/WWDC-App), Video, [Twitter](https://twitter.com/@GeekyLemon)
