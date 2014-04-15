@@ -14,3 +14,5 @@ Jeroen van Rijn - Source, [Video](https://www.youtube.com/watch?v=xUt5UCBAoLI), 
 Coulton Vento - Source, Video, [Twitter](http://twitter.com/@coultonvento)
 
 Louis Harboe - Source, Video, [Twitter](http://twitter.com/@spiralstairs) 
+
+Patrick Balestra - [Source](https://github.com/BalestraPatrick/WWDC-2014-Scholarship), [Twitter](http://twitter.com/@BalestraPatrick)
