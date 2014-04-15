@@ -3,6 +3,10 @@ WWDC-2014-Submissions
 
 A curated list of all the WWDC Submissions in one place
 
+Tosin Afolabi - - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
+
+Kyle Ryan - [Source](https://github.com/kylry/kyleryan), [Video](https://www.facebook.com/photo.php?v=10152013038854149), [Twitter](http://twitter.com/@kylry)
+
 Rohan Kapur - [Source](https://github.com/MCKapur/WWDC-2014-Scholarship-App), [Twitter](http://twitter.com/@MCKapur)
 
 Frederik Riedel - Source, [Video](http://youtu.be/8oy6gPt551Q), [Twitter](http://twitter.com/@FrederikRiedel)
@@ -11,7 +15,7 @@ Jak Tiano - Source, [Video](https://www.facebook.com/photo.php?v=101522335180497
 
 Jeroen van Rijn - Source, [Video](https://www.youtube.com/watch?v=xUt5UCBAoLI), [Twitter](http://twitter.com/@Jeroen0704)
 
-Coulton Vento - Source, Video, [Twitter](http://twitter.com/@coultonvento)
+Coulton Vento - [Source](https://github.com/coultonvento/WWDC-2014), Video, [Twitter](http://twitter.com/@coultonvento)
 
 Louis Harboe - Source, Video, [Twitter](http://twitter.com/@spiralstairs) 
 
