@@ -1,7 +1,7 @@
 WWDC-2014-Submissions
 =====================
 
-A curated list of all the WWDC Submissions in one place
+A curated list of all the WWDC Submissions in one place - 22 so far...
 
 Tosin Afolabi - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
 
@@ -29,8 +29,19 @@ Jonah Grant - Source, [Video](https://www.facebook.com/photo.php?v=1020379074638
 
 Conrad Kramer - [Source](https://github.com/conradev/WWDC2014), Video, [Twitter](https://twitter.com/@conradev)
 
-
 Isaiah Turner - Source, [Video](https://www.facebook.com/photo.php?v=712518992128745), [Twitter](https://twitter.com/@IsaiahJTurner)
+
+Finn Gaida - Source, [Video](http://www.youtube.com/watch?v=OKKF6o9wduI), [Twitter](https://twitter.com/@FinnGaida)
+
+Clemens Schulz - Source, [Video](https://www.youtube.com/watch?v=mn4ZPR9sNnA), Twitter
+
+Braeden Mayer - [Source](https://github.com/Braeden-Mayer/Braeden-Mayer), Video, [Twitter](https://twitter.com/@Braeden_Mayer)
+
+Moshe Berman - [Source](http://github.com/mosheberman/MosheBerman-iOS), Video, [Twitter](https://twitter.com/@bermaniastudios)
+
+Ben Pasternak - Source, [Video](https://www.youtube.com/watch?v=uuAS4n3zozs&feature=youtu.be), [Twitter](http://twitter.com/@BenPasternak)
+
+Farzad Nazifi - Source, Video, Twitter
 
 Ahmed Fathi - Source, Video, Twitter
 
