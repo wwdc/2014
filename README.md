@@ -1,7 +1,7 @@
 WWDC-2014-Submissions
 =====================
 
-A curated list of all the WWDC Submissions in one place - 22 so far...
+A curated list of all the WWDC Submissions in one place - 25 so far...
 
 Tosin Afolabi - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
 
@@ -50,6 +50,7 @@ Ahmed Fathi - Source, Video, Twitter
 Canzhi Ye - Source, Video, Twitter
 
 Not On the Facebook Group 
+=========================
 
 Michal Smialko - [Source](https://github.com/Moriquendi/WWDC2014), Video, [Twitter](https://twitter.com/@msmialko)
 
