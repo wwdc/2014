@@ -11,7 +11,7 @@ Rohan Kapur - [Source](https://github.com/MCKapur/WWDC-2014-Scholarship-App), [T
 
 Frederik Riedel - Source, [Video](http://youtu.be/8oy6gPt551Q), [Twitter](http://twitter.com/@FrederikRiedel)
 
-Jak Tiano - Source, [Video](https://www.facebook.com/photo.php?v=10152233518049733), [Twitter](http://twitter.com/@ChasElt])
+Jak Tiano - [Source](https://github.com/Jakintosh/WWDC-2014-Application), [Video](https://www.youtube.com/watch?v=6_zIcACwhuk), [Twitter](http://twitter.com/@ChasElt])
 
 Jeroen van Rijn - Source, [Video](https://www.youtube.com/watch?v=xUt5UCBAoLI), [Twitter](http://twitter.com/@Jeroen0704)
 
