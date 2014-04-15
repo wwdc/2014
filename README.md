@@ -31,7 +31,7 @@ Conrad Kramer - [Source](https://github.com/conradev/WWDC2014), Video, [Twitter]
 
 Isaiah Turner - Source, [Video](https://www.facebook.com/photo.php?v=712518992128745), [Twitter](https://twitter.com/@IsaiahJTurner)
 
-Finn Gaida - Source, [Video](http://www.youtube.com/watch?v=OKKF6o9wduI), [Twitter](https://twitter.com/@FinnGaida)
+Finn Gaida - [Source](https://github.com/finngaida/wwdc/tree/master/2014), [Video](http://www.youtube.com/watch?v=OKKF6o9wduI), [Twitter](https://twitter.com/@FinnGaida)
 
 Clemens Schulz - Source, [Video](https://www.youtube.com/watch?v=mn4ZPR9sNnA), Twitter
 
