@@ -47,13 +47,17 @@ Sanjeet Suhag - [Source](https://github.com/sanjeetsuhag/WWDC-2014-Scholarship-A
 
 Mert Dümenci - Source, [Video](http://www.youtube.com/watch?v=z_se6loQj-w), [Twitter](http://twitter.com/mertdumenci)
 
+Leonard Pauli - Source, [Video](https://www.youtube.com/watch?v=kvRqZf4E2mU), [Twitter](https://twitter.com/LeonardPauli)
+
+Austin Valleskey - Source, [Video](https://www.facebook.com/photo.php?v=526092777508950), [Twitter](https://twitter.com/@ajvalleskey)
+
 Farzad Nazifi - Source, Video, Twitter
 
 Ahmed Fathi - Source, Video, Twitter
 
 Canzhi Ye - Source, Video, Twitter
 
-Not On the Facebook Group 
+Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
 
 Michal Smialko - [Source](https://github.com/Moriquendi/WWDC2014), Video, [Twitter](https://twitter.com/@msmialko)
