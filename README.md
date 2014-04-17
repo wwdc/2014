@@ -1,7 +1,7 @@
 WWDC-2014-Submissions
 =====================
 
-A curated list of all the WWDC Submissions in one place - 25 so far...
+A curated list of all the WWDC Submissions in one place - 35 so far...
 
 Tosin Afolabi - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
 
@@ -57,6 +57,8 @@ Ahmed Fathi - Source, Video, Twitter
 
 Canzhi Ye - Source, Video, Twitter
 
+Andrew Breckenridge - [Source](https://github.com/AndrewSB/wwdc-scholarship-app), Video, [Twitter](https://www.twitter.com/Andrew_Breck)
+
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
 
@@ -65,8 +67,6 @@ Michal Smialko - [Source](https://github.com/Moriquendi/WWDC2014), Video, [Twitt
 Victor Ilisei - [Source](https://github.com/TechGeniusApps/WWDC-App), Video, [Twitter](https://twitter.com/@GeekyLemon)
 
 Sam Turner - [Source](https://github.com/samturner/wwdc-scholarship-2014), [Video](https://www.youtube.com/watch?v=lu_0gVWN8hA&feature=youtu.be), [Twitter](http://www.twitter.com/rheotron)
-
-Andrew Breckenridge - [Source](https://github.com/AndrewSB/wwdc-scholarship-app), Video, Twitter
 
 iPhonig - [Source](https://github.com/iPhonig/WWDC-2014-Student-Scholarship-App), Video, Twitter
 
