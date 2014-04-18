@@ -59,12 +59,12 @@ Canzhi Ye - Source, Video, Twitter
 
 Andrew Breckenridge - [Source](https://github.com/AndrewSB/wwdc-scholarship-app), Video, [Twitter](https://www.twitter.com/Andrew_Breck)
 
+Lukáš Petr - Source, [Video](http://www.youtube.com/watch?feature=player_embedded&v=kDQ-nnGX9RA), [Twitter](https://twitter.com/luksape), [Blog About Submission](http://www.glimsoft.com/04/18/my-wwdc14-scholarship-application/)
+
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
 
 Brian Jett - [Source](https://github.com/bdjett/WWDC-2014), Video, Twitter
-
-Lukáš Petr - Source, [Video](http://www.youtube.com/watch?feature=player_embedded&v=kDQ-nnGX9RA), [Twitter](https://twitter.com/luksape), [Blog About Submission](http://www.glimsoft.com/04/18/my-wwdc14-scholarship-application/)
 
 Cole Dunsby - [Source](https://github.com/Coledunsby/WWDC14), Video, Twitter
 
