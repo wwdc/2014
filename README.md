@@ -53,15 +53,17 @@ Austin Valleskey - Source, [Video](https://www.facebook.com/photo.php?v=52609277
 
 Ashwin Agarwal - Source, [Video](https://www.facebook.com/photo.php?v=662160460499436), Twitter
 
+Andrew Breckenridge - [Source](https://github.com/AndrewSB/wwdc-scholarship-app), Video, [Twitter](https://www.twitter.com/Andrew_Breck)
+
+Lukáš Petr - Source, [Video](http://www.youtube.com/watch?feature=player_embedded&v=kDQ-nnGX9RA), [Twitter](https://twitter.com/luksape), [Blog About Submission](http://www.glimsoft.com/04/18/my-wwdc14-scholarship-application/)
+
+David Roman - [Source](https://github.com/Dromaguirre/WWDC-2014-Scholarship-App), Video, [Twitter](https://www.twitter.com/@Dromaguirre)
+
 Farzad Nazifi - Source, Video, Twitter
 
 Ahmed Fathi - Source, Video, Twitter
 
 Canzhi Ye - Source, Video, Twitter
-
-Andrew Breckenridge - [Source](https://github.com/AndrewSB/wwdc-scholarship-app), Video, [Twitter](https://www.twitter.com/Andrew_Breck)
-
-Lukáš Petr - Source, [Video](http://www.youtube.com/watch?feature=player_embedded&v=kDQ-nnGX9RA), [Twitter](https://twitter.com/luksape), [Blog About Submission](http://www.glimsoft.com/04/18/my-wwdc14-scholarship-application/)
 
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
