@@ -67,14 +67,14 @@ Canzhi Ye - Source, Video, Twitter
 
 Lars Schwegmann - [Source](https://github.com/larsschwegmann/WWDC-14), [Video](https://www.facebook.com/photo.php?v=637685916301320), [Twitter](https://twitter.com/larsschwegmann)
 
+Michal Smialko - [Source](https://github.com/Moriquendi/WWDC2014), [Video](https://twitter.com/msmialko/status/455832748247506944), [Twitter](https://twitter.com/@msmialko)
+
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
 
 Brian Jett - [Source](https://github.com/bdjett/WWDC-2014), Video, Twitter
 
 Cole Dunsby - [Source](https://github.com/Coledunsby/WWDC14), Video, Twitter
-
-Michal Smialko - [Source](https://github.com/Moriquendi/WWDC2014), Video, [Twitter](https://twitter.com/@msmialko)
 
 Victor Ilisei - [Source](https://github.com/TechGeniusApps/WWDC-App), Video, [Twitter](https://twitter.com/@GeekyLemon)
 
