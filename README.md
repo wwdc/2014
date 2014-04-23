@@ -65,6 +65,8 @@ Ahmed Fathi - Source, Video, Twitter
 
 Canzhi Ye - Source, Video, Twitter
 
+Lars Schwegmann - [Source](https://github.com/larsschwegmann/WWDC-14), [Video](https://www.facebook.com/photo.php?v=637685916301320), [Twitter](https://twitter.com/larsschwegmann)
+
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
 
