@@ -3,6 +3,8 @@ WWDC-2014-Submissions
 
 A curated list of all the WWDC Submissions in one place - 39 so far...
 
+[Decision Day Countdown](http://itsalmo.st/#wwdc2014scholarship)
+
 Tosin Afolabi - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
 
 Kyle Ryan - [Source](https://github.com/kylry/kyleryan), [Video](https://www.facebook.com/photo.php?v=10152013038854149), [Twitter](http://twitter.com/@kylry)
