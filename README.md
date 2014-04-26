@@ -1,7 +1,7 @@
 WWDC-2014-Submissions
 =====================
 
-A curated list of all the WWDC Submissions in one place - 41 so far...
+A curated list of all the WWDC Submissions in one place - 49 so far...
 
 [Decision Day Countdown](http://itsalmo.st/#wwdc2014scholarship)
 
@@ -75,10 +75,24 @@ Ahmed Fathi - Source, Video, Twitter
 
 Canzhi Ye - Source, Video, Twitter
 
-
-
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
+
+Daniel Van Der Merwe - [Source](https://github.com/danieljvdm/Daniel-van-der-Merwe), Video, [Twitter](https://twitter.com/@danieljvdm)
+
+Akhil Tolani - [Source](https://github.com/Saltb0xApps/WWDC-2014-Scholarship-Application), Video, [Twitter](https://www.twitter.com/Saltb0x)
+
+Aaron Wojnowski - [Source](https://github.com/awojnowski/WWDC2013), Video, [Twitter](https://twitter.com/awojnowski)
+
+Matt Zanchelli - [Source](https://github.com/mdznr/WWDC-2014-Scholarship-Application), Video, [Twitter](https://www.twitter.com/@mdznr)
+
+Ashwin Agarwal -[Source](https://github.com/aaga/WWDC-2014-Scholarship-Entry), Video Twitter
+
+Mayank Jain - [Source](https://github.com/mjmayank/WWDC), Video, [Twitter](https://www.twitter.com/mjmayank1)
+
+Kolin Krewinkel - Source, [Video](https://github.com/kolinkrewinkel/WWDC14), [Twitter](https://twitter.com/@kkrewink)
+
+Khaos Tian - [Source](https://github.com/KhaosT/WWDC-14-Scholarship-Entry), Video, [Twitter](https://twitter.com/KhaosT)
 
 Brian Jett - [Source](https://github.com/bdjett/WWDC-2014), Video, Twitter
 
