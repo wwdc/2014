@@ -27,7 +27,7 @@ Isaac Rodríguez - Source, [Video](https://www.youtube.com/watch?v=LQFMa-yRrlk),
 
 Chris Galzerano - Source, [Video](https://www.youtube.com/watch?v=XImIArqS3ww&feature=youtu.be), [Twitter](https://twitter.com/@chrisgalz)
 
-Jonah Grant - Source, [Video](https://www.facebook.com/photo.php?v=10203790746388689), [Twitter](https://twitter.com/@jonahgrant)
+Jonah Grant - [Source](https://github.com/jonahgrant/wwdc), [Video](https://www.facebook.com/photo.php?v=10203790746388689), [Twitter](https://twitter.com/@jonahgrant)
 
 Conrad Kramer - [Source](https://github.com/conradev/WWDC2014), Video, [Twitter](https://twitter.com/@conradev)
 
