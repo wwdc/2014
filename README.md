@@ -1,7 +1,7 @@
 WWDC-2014-Submissions
 =====================
 
-A curated list of all the WWDC Submissions in one place - 39 so far...
+A curated list of all the WWDC Submissions in one place - 41 so far...
 
 [Decision Day Countdown](http://itsalmo.st/#wwdc2014scholarship)
 
@@ -61,15 +61,21 @@ Lukáš Petr - Source, [Video](http://www.youtube.com/watch?feature=player_embed
 
 David Roman - [Source](https://github.com/Dromaguirre/WWDC-2014-Scholarship-App), Video, [Twitter](https://www.twitter.com/@Dromaguirre)
 
+Lars Schwegmann - [Source](https://github.com/larsschwegmann/WWDC-14), [Video](https://www.facebook.com/photo.php?v=637685916301320), [Twitter](https://twitter.com/larsschwegmann)
+
+Michal Smialko - [Source](https://github.com/Moriquendi/WWDC2014), [Video](https://twitter.com/msmialko/status/455832748247506944), [Twitter](https://twitter.com/@msmialko)
+
+Matis De Schutter - Source, [Video](http://www.youtube.com/watch?v=N_YwxvRMpRE), Twitter
+
+Nicholas Gibson - Source, [Video](https://www.youtube.com/watch?v=-KaUURIz9TA), Twitter
+
 Farzad Nazifi - Source, Video, Twitter
 
 Ahmed Fathi - Source, Video, Twitter
 
 Canzhi Ye - Source, Video, Twitter
 
-Lars Schwegmann - [Source](https://github.com/larsschwegmann/WWDC-14), [Video](https://www.facebook.com/photo.php?v=637685916301320), [Twitter](https://twitter.com/larsschwegmann)
 
-Michal Smialko - [Source](https://github.com/Moriquendi/WWDC2014), [Video](https://twitter.com/msmialko/status/455832748247506944), [Twitter](https://twitter.com/@msmialko)
 
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
