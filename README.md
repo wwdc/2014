@@ -1,7 +1,7 @@
 WWDC-2014-Submissions
 =====================
 
-A curated list of all the WWDC Submissions in one place - 49 so far...
+A curated list of all the WWDC Submissions in one place - 50 so far...
 
 [Decision Day Countdown](http://itsalmo.st/#wwdc2014scholarship)
 
