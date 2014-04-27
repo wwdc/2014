@@ -75,7 +75,7 @@ Ahmed Fathi - Source, Video, Twitter
 
 Canzhi Ye - Source, Video, Twitter
 
-Nicola Giancecchi - Source, [Video](http://youtu.be/V3D9OzG3wAQ) - [Twitter](http://twitter.com/nicorsm)
+Nicola Giancecchi - Source, [Video](http://youtu.be/V3D9OzG3wAQ), [Twitter](http://twitter.com/nicorsm)
 
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
