@@ -77,6 +77,8 @@ Canzhi Ye - Source, Video, Twitter
 
 Nicola Giancecchi - Source, [Video](http://youtu.be/V3D9OzG3wAQ) - [Twitter](http://twitter.com/nicorsm)
 
+Douglas Ferreira - Source, [Video](https://www.youtube.com/watch?v=eXRwoUBnGXo), Twitter
+
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
 
