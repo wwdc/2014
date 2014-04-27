@@ -1,15 +1,15 @@
+### [Decision Day Countdown](http://itsalmo.st/#wwdc2014scholarship)
+
 WWDC-2014-Submissions
 =====================
 
 A curated list of all the WWDC Submissions in one place - 50 so far...
 
-[Decision Day Countdown](http://itsalmo.st/#wwdc2014scholarship)
-
 Tosin Afolabi - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
 
 Kyle Ryan - [Source](https://github.com/kylry/kyleryan), [Video](https://www.facebook.com/photo.php?v=10152013038854149), [Twitter](http://twitter.com/@kylry)
 
-Rohan Kapur - [Source](https://github.com/MCKapur/WWDC-2014-Scholarship-App), [Twitter](http://twitter.com/@MCKapur)
+Rohan Kapur - [Source](https://github.com/MCKapur/WWDC-2014-Scholarship-App), Video, [Twitter](http://twitter.com/@MCKapur)
 
 Frederik Riedel - Source, [Video](http://youtu.be/8oy6gPt551Q), [Twitter](http://twitter.com/@FrederikRiedel)
 
@@ -90,7 +90,7 @@ Aaron Wojnowski - [Source](https://github.com/awojnowski/WWDC2013), Video, [Twit
 
 Matt Zanchelli - [Source](https://github.com/mdznr/WWDC-2014-Scholarship-Application), Video, [Twitter](https://www.twitter.com/@mdznr)
 
-Ashwin Agarwal -[Source](https://github.com/aaga/WWDC-2014-Scholarship-Entry), Video Twitter
+Ashwin Agarwal -[Source](https://github.com/aaga/WWDC-2014-Scholarship-Entry), Video, Twitter
 
 Mayank Jain - [Source](https://github.com/mjmayank/WWDC), Video, [Twitter](https://www.twitter.com/mjmayank1)
 
@@ -106,7 +106,7 @@ Victor Ilisei - [Source](https://github.com/TechGeniusApps/WWDC-App), Video, [Tw
 
 Sam Turner - [Source](https://github.com/samturner/wwdc-scholarship-2014), [Video](https://www.youtube.com/watch?v=lu_0gVWN8hA&feature=youtu.be), [Twitter](http://www.twitter.com/rheotron)
 
-iPhonig - [Source](https://github.com/iPhonig/WWDC-2014-Student-Scholarship-App), Video, Twitter
+iPhonig - [Source](https://github.com/iPhonig/WWDC-2014-Student-Scholarship-App), Video, [Twitter](https://twitter.com/iphonig)
 
 Lea Marolt Sonnenschein - [Source](https://github.com/leamars/LeaMaroltSonnenschein), Video, Twitter
 
