@@ -81,6 +81,8 @@ Adrien Truong - [Source](https://github.com/adrientruong/WWDC2014), Video, [Twit
 
 Benedikt Hirmer (Rejected) - [Source](https://github.com/bhr/WWDC2014-Scholarship-Application), [Video](https://www.youtube.com/watch?v=p0MilL8QPUk), Twitter
 
+Tyler Flowers (Accepted) - [Source](https://github.com/Tdflowers/WWDC2014), Video, [Twitter](https://twitter.com/tdflowers)
+
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
 
