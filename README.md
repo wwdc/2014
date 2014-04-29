@@ -21,7 +21,7 @@ Coulton Vento - [Source](https://github.com/coultonvento/WWDC-2014), Video, [Twi
 
 Louis Harboe - Source, Video, [Twitter](http://twitter.com/@spiralstairs) 
 
-Patrick Balestra - [Source](https://github.com/BalestraPatrick/WWDC-2014-Scholarship), [Video](http://youtu.be/1nrBQDeDeQg), [Twitter](http://twitter.com/@BalestraPatrick)
+Patrick Balestra (Accepted) - [Source](https://github.com/BalestraPatrick/WWDC-2014-Scholarship), [Video](http://youtu.be/1nrBQDeDeQg), [Twitter](http://twitter.com/@BalestraPatrick)
 
 Isaac Rodríguez - Source, [Video](https://www.youtube.com/watch?v=LQFMa-yRrlk), [Twitter](https://twitter.com/@sideround)
 
