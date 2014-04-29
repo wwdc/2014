@@ -5,7 +5,7 @@ WWDC-2014-Submissions
 
 A curated list of all the WWDC Submissions in one place - 50 so far...
 
-Tosin Afolabi - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
+Tosin Afolabi (Accepted) - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
 
 Kyle Ryan (Accepted) - [Source](https://github.com/kylry/kyleryan), [Video](https://www.facebook.com/photo.php?v=10152013038854149), [Twitter](http://twitter.com/@kylry)
 
