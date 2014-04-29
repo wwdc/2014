@@ -31,7 +31,7 @@ Jonah Grant - [Source](https://github.com/jonahgrant/wwdc), [Video](https://www.
 
 Conrad Kramer - [Source](https://github.com/conradev/WWDC2014), Video, [Twitter](https://twitter.com/@conradev)
 
-Isaiah Turner - Source, [Video](https://www.facebook.com/photo.php?v=712518992128745), [Twitter](https://twitter.com/@IsaiahJTurner)
+Isaiah Turner (Accepted) - [Source](https://github.com/IsaiahJTurner/IsaiahJTurner), [Video](https://www.facebook.com/photo.php?v=712518992128745), [Twitter](https://twitter.com/@IsaiahJTurner)
 
 Finn Gaida - [Source](https://github.com/finngaida/wwdc/tree/master/2014), [Video](http://www.youtube.com/watch?v=OKKF6o9wduI), [Twitter](https://twitter.com/@FinnGaida)
 
