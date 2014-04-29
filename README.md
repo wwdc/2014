@@ -81,6 +81,8 @@ Douglas Ferreira - Source, [Video](https://www.youtube.com/watch?v=eXRwoUBnGXo),
 
 Adrien Truong - [Source](https://github.com/adrientruong/WWDC2014), Video, [Twitter](http://twitter.com/adrient_)
 
+Benedikt Hirmer (Rejected) - [Source](https://github.com/bhr/WWDC2014-Scholarship-Application), [Video](https://www.youtube.com/watch?v=p0MilL8QPUk), Twitter
+
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
 
