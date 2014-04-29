@@ -1,5 +1,3 @@
-### [Decision Day Countdown](http://itsalmo.st/#wwdc2014scholarship)
-
 WWDC-2014-Submissions
 =====================
 
