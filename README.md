@@ -79,6 +79,8 @@ Nicola Giancecchi - Source, [Video](http://youtu.be/V3D9OzG3wAQ), [Twitter](http
 
 Douglas Ferreira - Source, [Video](https://www.youtube.com/watch?v=eXRwoUBnGXo), Twitter
 
+Adrien Truong - [Source](https://github.com/adrientruong/WWDC2014), Video, [Twitter](http://twitter.com/adrient_)
+
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
 
