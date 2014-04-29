@@ -1,7 +1,15 @@
 WWDC-2014-Submissions
 =====================
 
-A curated list of all the WWDC Submissions in one place - 55 so far...
+### A curated list of all the WWDC Submissions in one place - 55 so far...
+
+Feel free to add your 2014 student scholarship submission. Example:
+
+```
+Name (Accepted/Rejected) - Source, Video, Twitter
+```
+
+--------------------
 
 Tosin Afolabi (Accepted) - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
 
