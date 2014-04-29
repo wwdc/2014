@@ -1,7 +1,7 @@
 WWDC-2014-Submissions
 =====================
 
-A curated list of all the WWDC Submissions in one place - 50 so far...
+A curated list of all the WWDC Submissions in one place - 55 so far...
 
 Tosin Afolabi (Accepted) - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
 
