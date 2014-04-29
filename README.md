@@ -37,7 +37,7 @@ Finn Gaida - [Source](https://github.com/finngaida/wwdc/tree/master/2014), [Vide
 
 Clemens Schulz - Source, [Video](https://www.youtube.com/watch?v=mn4ZPR9sNnA), Twitter
 
-Braeden Mayer - [Source](https://github.com/Braeden-Mayer/Braeden-Mayer), Video, [Twitter](https://twitter.com/@Braeden_Mayer)
+Braeden Mayer (Rejected) - [Source](https://github.com/Braeden-Mayer/Braeden-Mayer), Video, [Twitter](https://twitter.com/@Braeden_Mayer)
 
 Moshe Berman - [Source](http://github.com/mosheberman/MosheBerman-iOS), Video, [Twitter](https://twitter.com/@bermaniastudios)
 
