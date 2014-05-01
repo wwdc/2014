@@ -77,7 +77,7 @@ Nicholas Gibson - Source, [Video](https://www.youtube.com/watch?v=-KaUURIz9TA), 
 
 Farzad Nazifi - Source, [Video](http://youtu.be/gmgbqeiYvFU), [Twitter](https://twitter.com/euwars)
 
-Ahmed Fathi - Source, Video, Twitter
+Ahmed Fathi (Accepted) - [Source](https://github.com/AFapps/WWDC2014), Video, [Twitter](https://twitter.com/iAFapps)
 
 Canzhi Ye - Source, Video, Twitter
 
