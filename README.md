@@ -61,7 +61,7 @@ Austin Valleskey - Source, [Video](https://www.facebook.com/photo.php?v=52609277
 
 Ashwin Agarwal - Source, [Video](https://www.facebook.com/photo.php?v=662160460499436), Twitter
 
-Andrew Breckenridge - [Source](https://github.com/AndrewSB/wwdc-scholarship-app), Video, [Twitter](https://www.twitter.com/Andrew_Breck)
+Andrew Breckenridge (Rejected) - [Source](https://github.com/AndrewSB/wwdc-scholarship-app), Video, [Twitter](https://www.twitter.com/Andrew_Breck)
 
 Lukáš Petr - Source, [Video](http://www.youtube.com/watch?feature=player_embedded&v=kDQ-nnGX9RA), [Twitter](https://twitter.com/luksape), [Blog About Submission](http://www.glimsoft.com/04/18/my-wwdc14-scholarship-application/)
 
@@ -90,6 +90,8 @@ Adrien Truong - [Source](https://github.com/adrientruong/WWDC2014), Video, [Twit
 Benedikt Hirmer (Rejected) - [Source](https://github.com/bhr/WWDC2014-Scholarship-Application), [Video](https://www.youtube.com/watch?v=p0MilL8QPUk), Twitter
 
 Tyler Flowers (Accepted) - [Source](https://github.com/Tdflowers/WWDC2014), Video, [Twitter](https://twitter.com/tdflowers)
+
+Madhav Narayen (Rejected) - [Facebook](https://www.facebook.com/soccermadhav)
 
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
