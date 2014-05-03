@@ -121,7 +121,7 @@ Victor Ilisei - [Source](https://github.com/TechGeniusApps/WWDC-App), Video, [Tw
 Sam Turner - [Source](https://github.com/samturner/wwdc-scholarship-2014), [Video](https://www.youtube.com/watch?v=lu_0gVWN8hA&feature=youtu.be), [Twitter](http://www.twitter.com/rheotron)
 
 iPhonig - [Source](https://github.com/iPhonig/WWDC-2014-Student-Scholarship-App), Video, [Twitter](https://twitter.com/iphonig)
-ideos
+
 Lea Marolt Sonnenschein - [Source](https://github.com/leamars/LeaMaroltSonnenschein), Video, Twitter
 
 Justin Loew - [Source](https://github.com/jloloew/BrailleLearner), Video, Twitter
