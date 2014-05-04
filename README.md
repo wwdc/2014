@@ -65,7 +65,7 @@ Andrew Breckenridge (Rejected) - [Source](https://github.com/AndrewSB/wwdc-schol
 
 Lukáš Petr - Source, [Video](http://www.youtube.com/watch?feature=player_embedded&v=kDQ-nnGX9RA), [Twitter](https://twitter.com/luksape), [Blog About Submission](http://www.glimsoft.com/04/18/my-wwdc14-scholarship-application/)
 
-David Roman - [Source](https://github.com/Dromaguirre/WWDC-2014-Scholarship-App), Video, [Twitter](https://www.twitter.com/@Dromaguirre)
+David Roman (Accepted) - [Source](https://github.com/Dromaguirre/WWDC-2014-Scholarship-App), Video, [Twitter](https://www.twitter.com/@Dromaguirre)
 
 Lars Schwegmann - [Source](https://github.com/larsschwegmann/WWDC-14), [Video](https://www.facebook.com/photo.php?v=637685916301320), [Twitter](https://twitter.com/larsschwegmann)
 
