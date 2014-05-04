@@ -35,7 +35,7 @@ Chris Galzerano - Source, [Video](https://www.youtube.com/watch?v=XImIArqS3ww&fe
 
 Jonah Grant - [Source](https://github.com/jonahgrant/wwdc), [Video](https://www.facebook.com/photo.php?v=10203790746388689), [Twitter](https://twitter.com/@jonahgrant)
 
-Conrad Kramer - [Source](https://github.com/conradev/WWDC2014), Video, [Twitter](https://twitter.com/@conradev)
+Conrad Kramer (Accepted) - [Source](https://github.com/conradev/WWDC2014), [Video](https://www.youtube.com/watch?v=hzAjT7hbJSM), [Twitter](https://twitter.com/@conradev)
 
 Isaiah Turner (Accepted) - [Source](https://github.com/IsaiahJTurner/IsaiahJTurner), [Video](https://www.facebook.com/photo.php?v=712518992128745), [Twitter](https://twitter.com/@IsaiahJTurner)
 
