@@ -93,6 +93,8 @@ Tyler Flowers (Accepted) - [Source](https://github.com/Tdflowers/WWDC2014), Vide
 
 Madhav Narayan (Rejected) - Source, Video, [Facebook](https://www.facebook.com/soccermadhav)
 
+Eytan Schulman (Accepted) - Source, [Pictures](https://cloudup.com/iUd2KCpRcYB), [Twitter](https://twitter.com/zorcan1)
+
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
 
