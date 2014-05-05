@@ -75,7 +75,7 @@ Matis De Schutter - Source, [Video](http://www.youtube.com/watch?v=N_YwxvRMpRE),
 
 Nicholas Gibson - Source, [Video](https://www.youtube.com/watch?v=-KaUURIz9TA), Twitter
 
-Farzad Nazifi - Source, [Video](http://youtu.be/gmgbqeiYvFU), [Twitter](https://twitter.com/euwars)
+Farzad Nazifi (Accepted) - Source, [Video](http://youtu.be/gmgbqeiYvFU), [Twitter](https://twitter.com/euwars)
 
 Ahmed Fathi (Accepted) - [Source](https://github.com/AFapps/WWDC2014), Video, [Twitter](https://twitter.com/iAFapps)
 
