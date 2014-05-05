@@ -11,6 +11,8 @@ Name (Accepted/Rejected) - Source, Video, Twitter
 
 --------------------
 
+Douglas Bumby (Accepted) - [Source](https://github.com/istx25/WWDC-2014-Submissions), [Video](https://www.dropbox.com/s/2cwuvmfjkmm7git/ios-wwdc-app.mov), [Twitter](http://www.twitter.com/istx25)
+
 Tosin Afolabi (Accepted) - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
 
 Kyle Ryan (Accepted) - [Source](https://github.com/kylry/kyleryan), [Video](https://www.facebook.com/photo.php?v=10152013038854149), [Twitter](http://twitter.com/@kylry)
