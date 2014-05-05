@@ -99,6 +99,8 @@ Adam Bell (Accepted) - Source, Video, [Twitter](https://twitter.com/b3ll)
 
 Douglas Bumby (Accepted) - [Source](https://github.com/istx25/WWDC-2014-Submissions), [Video](https://www.dropbox.com/s/2cwuvmfjkmm7git/ios-wwdc-app.mov), [Twitter](http://www.twitter.com/istx25)
 
+Neeraj Baid (Accepted) - [Source](https://github.com/neerajbaid/WWDC2014), Video, [Twitter](https://twitter.com/2neeraj)
+
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
 
