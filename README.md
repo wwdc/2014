@@ -95,7 +95,7 @@ Madhav Narayan (Rejected) - Source, Video, [Facebook](https://www.facebook.com/s
 
 Eytan Schulman (Accepted) - Source, [Pictures](https://cloudup.com/iUd2KCpRcYB), [Twitter](https://twitter.com/zorcan1)
 
-Adam Bell (Accepted) - Source (closed source for now), Video, [Twitter](https://twitter.com/b3ll)
+Adam Bell (Accepted) - Source, Video, [Twitter](https://twitter.com/b3ll)
 
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
