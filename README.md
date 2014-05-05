@@ -108,7 +108,7 @@ Aaron Wojnowski - [Source](https://github.com/awojnowski/WWDC2013), Video, [Twit
 
 Matt Zanchelli - [Source](https://github.com/mdznr/WWDC-2014-Scholarship-Application), Video, [Twitter](https://www.twitter.com/@mdznr)
 
-Ashwin Agarwal -[Source](https://github.com/aaga/WWDC-2014-Scholarship-Entry), Video, Twitter
+Ashwin Agarwal - [Source](https://github.com/aaga/WWDC-2014-Scholarship-Entry), Video, Twitter
 
 Mayank Jain - [Source](https://github.com/mjmayank/WWDC), Video, [Twitter](https://www.twitter.com/mjmayank1)
 
