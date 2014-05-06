@@ -136,4 +136,4 @@ Justin Loew - [Source](https://github.com/jloloew/BrailleLearner), Video, Twitte
 
 Maijid Moujaled - [Source](https://github.com/DrJid/Personal-Portfolio-app), Video, [Twitter](https://twitter.com/@DrJid) 
 
-Marc Cuva (Accepted) - [Source](https://github.com/mjcuva/WWDC2014), [Twitter](https://twitter.com/marccuva)
+Marc Cuva (Accepted) - [Source](https://github.com/mjcuva/WWDC2014), Video, [Twitter](https://twitter.com/marccuva)
