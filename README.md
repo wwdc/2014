@@ -39,7 +39,7 @@ Conrad Kramer (Accepted) - [Source](https://github.com/conradev/WWDC2014), [Vide
 
 Isaiah Turner (Accepted) - [Source](https://github.com/IsaiahJTurner/IsaiahJTurner), [Video](https://www.facebook.com/photo.php?v=712518992128745), [Twitter](https://twitter.com/@IsaiahJTurner)
 
-Finn Gaida - [Source](https://github.com/finngaida/wwdc/tree/master/2014), [Video](http://www.youtube.com/watch?v=OKKF6o9wduI), [Twitter](https://twitter.com/@FinnGaida)
+Finn Gaida (Rejected) - [Source](https://github.com/finngaida/wwdc/tree/master/2014), [Video](http://www.youtube.com/watch?v=OKKF6o9wduI), [Twitter](https://twitter.com/@FinnGaida)
 
 Clemens Schulz (Accepted) - Source, [Video](https://www.youtube.com/watch?v=mn4ZPR9sNnA), [Twitter](https://twitter.com/@cl1993)
 
