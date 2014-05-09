@@ -1,7 +1,7 @@
 WWDC-2014-Submissions
 =====================
 
-### A curated list of all the WWDC Submissions in one place - 55 so far...
+### A curated list of all the WWDC Submissions in one place - 63 so far...
 
 Feel free to add your 2014 student scholarship submission. Example:
 
