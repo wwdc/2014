@@ -103,6 +103,8 @@ Douglas Bumby (Accepted) - [Source](https://github.com/istx25/WWDC-2014-Submissi
 
 Neeraj Baid (Accepted) - [Source](https://github.com/neerajbaid/WWDC2014), Video, [Twitter](https://twitter.com/2neeraj)
 
+Vijay Sridhar (Accepted) - Source, [Video](https://www.youtube.com/watch?v=VKcvYUD1pio), [Twitter](https://twitter.com/sridvijay)
+
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
 
