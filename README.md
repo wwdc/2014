@@ -13,7 +13,7 @@ Name (Accepted/Rejected) - Source, Video, Twitter
 
 Tosin Afolabi (Accepted) - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
 
-Alex Telek - Source, [Video](https://www.youtube.com/watch?v=B8GLQ-ZnjjQ), [Twitter](https://twitter.com/@alexmtk)
+Alex Telek (Accepted) - Source, [Video](https://www.youtube.com/watch?v=B8GLQ-ZnjjQ), [Twitter](https://twitter.com/@alexmtk)
 
 Kyle Ryan (Accepted) - [Source](https://github.com/kylry/kyleryan), [Video](https://www.facebook.com/photo.php?v=10152013038854149), [Twitter](http://twitter.com/@kylry)
 
