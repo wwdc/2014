@@ -143,3 +143,6 @@ Maijid Moujaled - [Source](https://github.com/DrJid/Personal-Portfolio-app), Vid
 Marc Cuva (Accepted) - [Source](https://github.com/mjcuva/WWDC2014), Video, [Twitter](https://twitter.com/marccuva)  
 
 Lukas Spieß (Accepted) - Source, [Video](https://vimeo.com/94400719), [Twitter](https://twitter.com/Blubser)  
+
+Radek Pietruszewski (Accepted) - Source, [Video](https://www.youtube.com/watch?v=ouumNZu1RAA), [Twitter](https://twitter.com/radexp)  
+
