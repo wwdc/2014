@@ -25,7 +25,7 @@ Frederik Riedel - Source, [Video](http://youtu.be/8oy6gPt551Q), [Twitter](http:/
 
 Jak Tiano - [Source](https://github.com/Jakintosh/WWDC-2014-Application), [Video](https://www.youtube.com/watch?v=6_zIcACwhuk), [Twitter](http://twitter.com/@ChasElt])
 
-Jeroen van Rijn - Source, [Video](https://www.youtube.com/watch?v=xUt5UCBAoLI), [Twitter](http://twitter.com/@Jeroen0704)
+Jeroen van Rijn (Accepted) - Source, [Video](https://www.youtube.com/watch?v=xUt5UCBAoLI), [Twitter](http://twitter.com/@Jeroen0704)
 
 Coulton Vento - [Source](https://github.com/coultonvento/WWDC-2014), Video, [Twitter](http://twitter.com/@coultonvento)
 
