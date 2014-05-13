@@ -13,7 +13,7 @@ Name (Accepted/Rejected) - Source, Video, Twitter
 
 Tosin Afolabi (Accepted) - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
 
-Sjors Snoeren (Accepted) - [Source](https://github.com/SjorsSnoeren/WWDC-App-2014), Video, Twitter(http://twitter.com/@sjorssnoeren)
+Sjors Snoeren (Accepted) - [Source](https://github.com/SjorsSnoeren/WWDC-App-2014), Video, [Twitter](http://twitter.com/@sjorssnoeren)
 
 Alex Telek (Accepted) - Source, [Video](https://www.youtube.com/watch?v=B8GLQ-ZnjjQ), [Twitter](https://twitter.com/@alexmtk)
 
