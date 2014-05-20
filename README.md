@@ -111,7 +111,7 @@ Nick Frey (Accepted) - Source, Video, [Twitter](http://twitter.com/NickFrey)
 
 Veeral Patel (Accepted) - Source, Video, [Twitter](http://twitter.com/vral)
 
-Jaxon Stevens (Accepted) - Source, Video, [Twitter] https://twitter.com/RouteTravel66
+Jaxon Stevens (Accepted) - Source, Video, [Twitter](https://twitter.com/RouteTravel66)
 
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
