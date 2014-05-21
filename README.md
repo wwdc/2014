@@ -2,7 +2,7 @@
 
 ### A curated list of all the WWDC Submissions in one place - 63 so far...
 
-Feel free to add your 2014 student scholarship submission. Example:
+     Feel free to add your 2014 student scholarship submission. Example:
 
 ```
 Name (Accepted/Rejected) - Source, Video, Twitter
