@@ -1,5 +1,4 @@
-WWDC-2014-Submissions
-=====================
+![WWDC Banner](https://devimages.apple.com.edgekey.net/wwdc/images/wwdc14-home-branding.png)
 
 ### A curated list of all the WWDC Submissions in one place - 63 so far...
 
