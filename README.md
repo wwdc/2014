@@ -127,7 +127,7 @@ Ashwin Agarwal - [Source](https://github.com/aaga/WWDC-2014-Scholarship-Entry), 
 
 Mayank Jain - [Source](https://github.com/mjmayank/WWDC), Video, [Twitter](https://www.twitter.com/mjmayank1)
 
-Kolin Krewinkel - Source, [Video](https://github.com/kolinkrewinkel/WWDC14), [Twitter](https://twitter.com/@kkrewink)
+Kolin Krewinkel - [Source](https://github.com/kolinkrewinkel/WWDC14), Video, [Twitter](https://twitter.com/@kkrewink)
 
 Khaos Tian - [Source](https://github.com/KhaosT/WWDC-14-Scholarship-Entry), Video, [Twitter](https://twitter.com/KhaosT)
 
