@@ -1,5 +1,7 @@
 ![WWDC Banner](https://devimages.apple.com.edgekey.net/wwdc/images/wwdc14-home-branding.png)
 
+## Try out WWDC apps inside your browser: http://www.wwdcstudents.co
+
 ###        A curated list of all the WWDC Submissions in one place - 63 so far...
 
 Feel free to add your 2014 student scholarship submission. Example:
