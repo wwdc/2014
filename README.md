@@ -145,7 +145,6 @@ Sam Turner - [Source](https://github.com/samturner/wwdc-scholarship-2014), [Vide
 
 iPhonig - [Source](https://github.com/iPhonig/WWDC-2014-Student-Scholarship-App), Video, [Twitter](https://twitter.com/iphonig)
 
-
 Lea Marolt Sonnenschein - [Source](https://github.com/leamars/LeaMaroltSonnenschein), Video, Twitter
 
 Justin Loew - [Source](https://github.com/jloloew/BrailleLearner), Video, Twitter
