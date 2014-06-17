@@ -88,6 +88,8 @@ Canzhi Ye - Source, Video, Twitter
 
 Nicola Giancecchi - Source, [Video](http://youtu.be/V3D9OzG3wAQ), [Twitter](http://twitter.com/nicorsm)
 
+Rameez Remsudeen - Source, Video, [Twitter](http://twitter.com/remzr7)
+
 Douglas Ferreira - Source, [Video](https://www.youtube.com/watch?v=eXRwoUBnGXo), Twitter
 
 Adrien Truong - [Source](https://github.com/adrientruong/WWDC2014), Video, [Twitter](http://twitter.com/adrient_)
@@ -142,6 +144,7 @@ Victor Ilisei - [Source](https://github.com/TechGeniusApps/WWDC-App), Video, [Tw
 Sam Turner - [Source](https://github.com/samturner/wwdc-scholarship-2014), [Video](https://www.youtube.com/watch?v=lu_0gVWN8hA&feature=youtu.be), [Twitter](http://www.twitter.com/rheotron)
 
 iPhonig - [Source](https://github.com/iPhonig/WWDC-2014-Student-Scholarship-App), Video, [Twitter](https://twitter.com/iphonig)
+
 
 Lea Marolt Sonnenschein - [Source](https://github.com/leamars/LeaMaroltSonnenschein), Video, Twitter
 
