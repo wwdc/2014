@@ -66,7 +66,7 @@ Austin Valleskey - Source, [Video](https://www.facebook.com/photo.php?v=52609277
 
 Ashwin Agarwal - Source, [Video](https://www.facebook.com/photo.php?v=662160460499436), Twitter
 
-Andrew Breckenridge (Rejected) - [Source](https://github.com/AndrewSB/wwdc-scholarship-app), Video, [Twitter](https://www.twitter.com/Andrew_Breck)
+Andrew Breckenridge - Source, Video, [Twitter](https://www.twitter.com/Andrew_Breck)
 
 Lukáš Petr - Source, [Video](http://www.youtube.com/watch?feature=player_embedded&v=kDQ-nnGX9RA), [Twitter](https://twitter.com/luksape), [Blog About Submission](http://www.glimsoft.com/04/18/my-wwdc14-scholarship-application/)
 
