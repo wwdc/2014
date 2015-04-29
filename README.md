@@ -1,4 +1,4 @@
-+![WWDC Banner](https://devimages.apple.com.edgekey.net/wwdc/images/wwdc14-home-branding_2x.png)
+![WWDC Banner](https://devimages.apple.com.edgekey.net/wwdc/images/wwdc14-home-branding_2x.png)
 
 ## Try out WWDC apps inside your browser: http://www.wwdcstudents.co
 
