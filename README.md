@@ -158,3 +158,5 @@ Lukas Spieß (Accepted) - Source, [Video](https://vimeo.com/94400719), [Twitter]
 Radek Pietruszewski (Accepted) - Source, [Video](https://www.youtube.com/watch?v=ouumNZu1RAA), [Twitter](https://twitter.com/radexp)  
 
 Brian Chan (Accepted) - [Source](https://github.com/b123400/wwdc2014), [Video](https://www.youtube.com/watch?v=CTET-LYe3vY), [Twitter](http://twitter.com/b123400)
+
+Yichen Cao (Accepted) - Source, Video, [Twitter](http://twitter.com/schemetrical)
