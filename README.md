@@ -116,6 +116,8 @@ Veeral Patel (Accepted) - Source, Video, [Twitter](http://twitter.com/vral)
 
 Jaxon Stevens (Accepted) - Source, Video, [Twitter](https://twitter.com/RouteTravel66)
 
+Thomas Delgado (Accepted) - [Source](https://github.com/thomasdelgado/Resume-App), Video, [Twitter](https://twitter.com/DelgadoThomas)
+
 Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
 =========================
 
