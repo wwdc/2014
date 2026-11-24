@@ -16,7 +16,7 @@ Use the **[update form](https://github.com/wwdc/2014/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links | Status |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status |
 |:--|:--|:--|
 | [Aaron Wojnowski](https://twitter.com/awojnowski) | [GitHub](https://github.com/awojnowski/WWDC2013) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
 | [Adam Bell](https://twitter.com/b3ll) |  | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
