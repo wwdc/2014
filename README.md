@@ -1,6 +1,6 @@
 # WWDC 2014 - Scholarship
 
-![WWDC 2014 Logo](https://devimages.apple.com.edgekey.net/wwdc/images/wwdc14-home-branding_2x.png)
+![WWDC 2014 Logo](logo.png)
 
 List of student submissions for the WWDC 2014 - Scholarship. The list is in alphabetical order.
 
@@ -16,7 +16,7 @@ Use the **[update form](https://github.com/wwdc/2014/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status<br>           |
 |:--|:--|:--|
 | [Aaron Wojnowski](https://twitter.com/awojnowski) | [GitHub](https://github.com/awojnowski/WWDC2013) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
 | [Adam Bell](https://twitter.com/b3ll) |  | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
