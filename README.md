@@ -1,164 +1,95 @@
-![WWDC Banner](https://devimages.apple.com.edgekey.net/wwdc/images/wwdc14-home-branding_2x.png)
-
-## Try out WWDC apps inside your browser: http://www.wwdcstudents.co
-
-###        A curated list of all the WWDC Submissions in one place - 63 so far...
-
-Feel free to add your 2014 student scholarship submission. Example:
-
-```
-Name (Accepted/Rejected) - Source, Video, Twitter
-```
-
---------------------
-
-Tosin Afolabi (Accepted) - [Source](https://github.com/TosinAF/WWDC-2014), [Video](http://youtu.be/OVu5M5hHTB8), [Twitter](http://twitter.com/@tosinaf)
-
-Sjors Snoeren (Accepted) - [Source](https://github.com/SjorsSnoeren/WWDC-App-2014), Video, [Twitter](http://twitter.com/@sjorssnoeren)
-
-Alex Telek (Accepted) - Source, [Video](https://www.youtube.com/watch?v=B8GLQ-ZnjjQ), [Twitter](https://twitter.com/@alexmtk)
-
-Kyle Ryan (Accepted) - [Source](https://github.com/kylry/kyleryan), [Video](https://www.facebook.com/photo.php?v=10152013038854149), [Twitter](http://twitter.com/@kylry)
-
-Rohan Kapur - [Source](https://github.com/MCKapur/WWDC-2014-Scholarship-App), Video, [Twitter](http://twitter.com/@MCKapur)
-
-Frederik Riedel - Source, [Video](http://youtu.be/8oy6gPt551Q), [Twitter](http://twitter.com/@FrederikRiedel)
-
-Jak Tiano - [Source](https://github.com/Jakintosh/WWDC-2014-Application), [Video](https://www.youtube.com/watch?v=6_zIcACwhuk), [Twitter](http://twitter.com/@ChasElt])
-
-Jeroen van Rijn (Accepted) - Source, [Video](https://www.youtube.com/watch?v=xUt5UCBAoLI), [Twitter](http://twitter.com/@Jeroen0704)
-
-Coulton Vento - [Source](https://github.com/coultonvento/WWDC-2014), Video, [Twitter](http://twitter.com/@coultonvento)
-
-Louis Harboe - Source, Video, [Twitter](http://twitter.com/@spiralstairs) 
-
-Patrick Balestra (Accepted) - [Source](https://github.com/BalestraPatrick/WWDC-2014-Scholarship), [Video](http://youtu.be/1nrBQDeDeQg), [Twitter](http://twitter.com/@BalestraPatrick)
-
-Isaac Rodríguez - Source, [Video](https://www.youtube.com/watch?v=LQFMa-yRrlk), [Twitter](https://twitter.com/@sideround)
-
-Chris Galzerano - Source, [Video](https://www.youtube.com/watch?v=XImIArqS3ww&feature=youtu.be), [Twitter](https://twitter.com/@chrisgalz)
-
-Jonah Grant - [Source](https://github.com/jonahgrant/wwdc), [Video](https://www.facebook.com/photo.php?v=10203790746388689), [Twitter](https://twitter.com/@jonahgrant)
-
-Conrad Kramer (Accepted) - [Source](https://github.com/conradev/WWDC2014), [Video](https://www.youtube.com/watch?v=hzAjT7hbJSM), [Twitter](https://twitter.com/@conradev)
-
-Isaiah Turner (Accepted) - [Source](https://github.com/IsaiahJTurner/IsaiahJTurner), [Video](https://www.facebook.com/photo.php?v=712518992128745), [Twitter](https://twitter.com/@IsaiahJTurner)
-
-Finn Gaida (Rejected) - [Source](https://github.com/finngaida/wwdc/tree/master/2014), [Video](http://www.youtube.com/watch?v=OKKF6o9wduI), [Twitter](https://twitter.com/@FinnGaida)
-
-Clemens Schulz (Accepted) - Source, [Video](https://www.youtube.com/watch?v=mn4ZPR9sNnA), [Twitter](https://twitter.com/@cl1993)
-
-Braeden Mayer (Rejected) - [Source](https://github.com/Braeden-Mayer/Braeden-Mayer), Video, [Twitter](https://twitter.com/@Braeden_Mayer)
-
-Moshe Berman - [Source](http://github.com/mosheberman/MosheBerman-iOS), Video, [Twitter](https://twitter.com/@bermaniastudios)
-
-Ben Pasternak - Source, [Video](https://www.youtube.com/watch?v=uuAS4n3zozs&feature=youtu.be), [Twitter](http://twitter.com/@BenPasternak)
-
-Nate Chiger - [Source](https://github.com/natechiger/WWDC-2014-Scholarship), Video, [Twitter](http://twitter.com/natechiger)
-
-Sanjeet Suhag - [Source](https://github.com/sanjeetsuhag/WWDC-2014-Scholarship-App), Video, [Twitter](https://twitter.com/@sanjeetsuhag)
-
-Mert Dümenci - Source, [Video](http://www.youtube.com/watch?v=z_se6loQj-w), [Twitter](http://twitter.com/mertdumenci)
-
-Leonard Pauli - Source, [Video](https://www.youtube.com/watch?v=kvRqZf4E2mU), [Twitter](https://twitter.com/LeonardPauli)
-
-Austin Valleskey - Source, [Video](https://www.facebook.com/photo.php?v=526092777508950), [Twitter](https://twitter.com/@ajvalleskey)
-
-Ashwin Agarwal - Source, [Video](https://www.facebook.com/photo.php?v=662160460499436), Twitter
-
-Andrew Breckenridge - Source, Video, [Twitter](https://www.twitter.com/Andrew_Breck)
-
-Lukáš Petr - Source, [Video](http://www.youtube.com/watch?feature=player_embedded&v=kDQ-nnGX9RA), [Twitter](https://twitter.com/luksape), [Blog About Submission](http://www.glimsoft.com/04/18/my-wwdc14-scholarship-application/)
-
-David Roman (Accepted) - [Source](https://github.com/Dromaguirre/WWDC-2014-Scholarship-App), Video, [Twitter](https://www.twitter.com/@Dromaguirre)
-
-Lars Schwegmann - [Source](https://github.com/larsschwegmann/WWDC-14), [Video](https://www.facebook.com/photo.php?v=637685916301320), [Twitter](https://twitter.com/larsschwegmann)
-
-Michal Smialko - [Source](https://github.com/Moriquendi/WWDC2014), [Video](https://twitter.com/msmialko/status/455832748247506944), [Twitter](https://twitter.com/@msmialko)
-
-Matis De Schutter - Source, [Video](http://www.youtube.com/watch?v=N_YwxvRMpRE), Twitter
-
-Nicholas Gibson - Source, [Video](https://www.youtube.com/watch?v=-KaUURIz9TA), Twitter
-
-Farzad Nazifi (Accepted) - Source, [Video](http://youtu.be/gmgbqeiYvFU), [Twitter](https://twitter.com/euwars)
-
-Ahmed Fathi (Accepted) - [Source](https://github.com/AFathi/WWDC2014), Video, [Twitter](https://twitter.com/iAFapps)
-
-Canzhi Ye - Source, Video, Twitter
-
-Nicola Giancecchi - Source, [Video](http://youtu.be/V3D9OzG3wAQ), [Twitter](http://twitter.com/nicorsm)
-
-Rameez Remsudeen - Source, Video, [Twitter](http://twitter.com/remzr7)
-
-Douglas Ferreira - Source, [Video](https://www.youtube.com/watch?v=eXRwoUBnGXo), Twitter
-
-Adrien Truong - [Source](https://github.com/adrientruong/WWDC2014), Video, [Twitter](http://twitter.com/adrient_)
-
-Benedikt Hirmer (Rejected) - [Source](https://github.com/bhr/WWDC2014-Scholarship-Application), [Video](https://www.youtube.com/watch?v=p0MilL8QPUk), Twitter
-
-Tyler Flowers (Accepted) - [Source](https://github.com/Tdflowers/WWDC2014), Video, [Twitter](https://twitter.com/tdflowers)
-
-Madhav Narayan (Rejected) - Source, Video, [Facebook](https://www.facebook.com/soccermadhav)
-
-Eytan Schulman (Accepted) - Source, [Pictures](https://cloudup.com/iUd2KCpRcYB), [Twitter](https://twitter.com/zorcan1)
-
-Adam Bell (Accepted) - Source, Video, [Twitter](https://twitter.com/b3ll)
-
-Douglas Bumby (Accepted) - [Source](https://github.com/istx25/WWDC-2014-Submissions), [Video](https://www.dropbox.com/s/2cwuvmfjkmm7git/ios-wwdc-app.mov), [Twitter](http://www.twitter.com/istx25)
-
-Neeraj Baid (Accepted) - [Source](https://github.com/neerajbaid/WWDC2014), Video, [Twitter](https://twitter.com/2neeraj)
-
-Vijay Sridhar (Accepted) - Source, [Video](https://www.youtube.com/watch?v=VKcvYUD1pio), [Twitter](https://twitter.com/sridvijay)
-
-Nick Frey (Accepted) - Source, Video, [Twitter](http://twitter.com/NickFrey)
-
-Veeral Patel (Accepted) - Source, Video, [Twitter](http://twitter.com/vral)
-
-Jaxon Stevens (Accepted) - Source, Video, [Twitter](https://twitter.com/RouteTravel66)
-
-Not On the [Facebook Group](https://www.facebook.com/groups/1470363219847559/) 
-=========================
-
-Daniel Van Der Merwe - [Source](https://github.com/danieljvdm/Daniel-van-der-Merwe), Video, [Twitter](https://twitter.com/@danieljvdm)
-
-Akhil Tolani - [Source](https://github.com/Saltb0xApps/WWDC-2014-Scholarship-Application), Video, [Twitter](https://www.twitter.com/Saltb0x)
-
-Aaron Wojnowski - [Source](https://github.com/awojnowski/WWDC2013), Video, [Twitter](https://twitter.com/awojnowski)
-
-Matt Zanchelli - [Source](https://github.com/mdznr/WWDC-2014-Scholarship-Application), Video, [Twitter](https://www.twitter.com/@mdznr)
-
-Ashwin Agarwal - [Source](https://github.com/aaga/WWDC-2014-Scholarship-Entry), Video, Twitter
-
-Mayank Jain - [Source](https://github.com/mjmayank/WWDC), Video, [Twitter](https://www.twitter.com/mjmayank1)
-
-Kolin Krewinkel - [Source](https://github.com/kolinkrewinkel/WWDC14), Video, [Twitter](https://twitter.com/@kkrewink)
-
-Khaos Tian - [Source](https://github.com/KhaosT/WWDC-14-Scholarship-Entry), Video, [Twitter](https://twitter.com/KhaosT)
-
-Brian Jett - [Source](https://github.com/bdjett/WWDC-2014), Video, Twitter
-
-Cole Dunsby - [Source](https://github.com/Coledunsby/WWDC14), Video, Twitter
-
-Victor Ilisei - [Source](https://github.com/TechGeniusApps/WWDC-App), Video, [Twitter](https://twitter.com/@GeekyLemon)
-
-Sam Turner - [Source](https://github.com/samturner/wwdc-scholarship-2014), [Video](https://www.youtube.com/watch?v=lu_0gVWN8hA&feature=youtu.be), [Twitter](http://www.twitter.com/rheotron)
-
-iPhonig - [Source](https://github.com/iPhonig/WWDC-2014-Student-Scholarship-App), Video, [Twitter](https://twitter.com/iphonig)
-
-Lea Marolt Sonnenschein - [Source](https://github.com/leamars/LeaMaroltSonnenschein), Video, Twitter
-
-Justin Loew - [Source](https://github.com/jloloew/BrailleLearner), Video, Twitter
-
-Maijid Moujaled - [Source](https://github.com/DrJid/Personal-Portfolio-app), Video, [Twitter](https://twitter.com/@DrJid) 
-
-Marc Cuva (Accepted) - [Source](https://github.com/mjcuva/WWDC2014), Video, [Twitter](https://twitter.com/marccuva)  
-
-Lukas Spieß (Accepted) - Source, [Video](https://vimeo.com/94400719), [Twitter](https://twitter.com/Blubser)  
-
-Radek Pietruszewski (Accepted) - Source, [Video](https://www.youtube.com/watch?v=ouumNZu1RAA), [Twitter](https://twitter.com/radexp)  
-
-Kyle Spadaro (Accepted) - Source, Video, [Twitter](https://twitter.com/kylespadaro
-
-Brian Chan (Accepted) - [Source](https://github.com/b123400/wwdc2014), [Video](https://www.youtube.com/watch?v=CTET-LYe3vY), [Twitter](http://twitter.com/b123400)
-
-Yichen Cao (Accepted) - Source, Video, [Twitter](http://twitter.com/schemetrical)
+# WWDC 2014 - Scholarship
+
+![WWDC 2014 Logo](https://devimages.apple.com.edgekey.net/wwdc/images/wwdc14-home-branding_2x.png)
+
+List of student submissions for the WWDC 2014 - Scholarship. The list is in alphabetical order.
+
+Try out the WWDC apps inside your browser: http://www.wwdcstudents.co
+
+### How to add your submission?
+1. **[Click here to open the form](https://github.com/wwdc/2014/issues/new?template=submit.yml)** and fill it in.
+2. Send it. A bot checks your entry within a minute and tells you if anything needs fixing. You can edit the form after sending.
+3. When it is approved your entry appears on this list.
+
+#### How to update or remove your submission?
+Use the **[update form](https://github.com/wwdc/2014/issues/new?template=update.yml)**. Only the person who sent the entry can change it.
+
+### Submissions
+
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status |
+|:--|:--|:--|
+| [Aaron Wojnowski](https://twitter.com/awojnowski) | [GitHub](https://github.com/awojnowski/WWDC2013) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Adam Bell](https://twitter.com/b3ll) |  | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Adrien Truong](http://twitter.com/adrient_) | [GitHub](https://github.com/adrientruong/WWDC2014) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Ahmed Fathi](https://twitter.com/iAFapps) | [GitHub](https://github.com/AFathi/WWDC2014) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Akhil Tolani](https://www.twitter.com/Saltb0x) | [GitHub](https://github.com/Saltb0xApps/WWDC-2014-Scholarship-Application) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Alex Telek](https://twitter.com/@alexmtk) | [Video](https://www.youtube.com/watch?v=B8GLQ-ZnjjQ) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Andrew Breckenridge](https://www.twitter.com/Andrew_Breck) |  | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| Ashwin Agarwal | [GitHub](https://github.com/aaga/WWDC-2014-Scholarship-Entry) · [Video](https://www.facebook.com/photo.php?v=662160460499436) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Austin Valleskey](https://twitter.com/@ajvalleskey) | [Video](https://www.facebook.com/photo.php?v=526092777508950) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Ben Pasternak](http://twitter.com/@BenPasternak) | [Video](https://www.youtube.com/watch?v=uuAS4n3zozs&feature=youtu.be) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| Benedikt Hirmer | [GitHub](https://github.com/bhr/WWDC2014-Scholarship-Application) · [Video](https://www.youtube.com/watch?v=p0MilL8QPUk) | ![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge) |
+| [Braeden Mayer](https://twitter.com/@Braeden_Mayer) | [GitHub](https://github.com/Braeden-Mayer/Braeden-Mayer) | ![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge) |
+| [Brian Chan](http://twitter.com/b123400) | [GitHub](https://github.com/b123400/wwdc2014) · [Video](https://www.youtube.com/watch?v=CTET-LYe3vY) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| Brian Jett | [GitHub](https://github.com/bdjett/WWDC-2014) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| Canzhi Ye |  | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Chris Galzerano](https://twitter.com/@chrisgalz) | [Video](https://www.youtube.com/watch?v=XImIArqS3ww&feature=youtu.be) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Clemens Schulz](https://twitter.com/@cl1993) | [Video](https://www.youtube.com/watch?v=mn4ZPR9sNnA) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| Cole Dunsby | [GitHub](https://github.com/Coledunsby/WWDC14) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Conrad Kramer](https://twitter.com/@conradev) | [GitHub](https://github.com/conradev/WWDC2014) · [Video](https://www.youtube.com/watch?v=hzAjT7hbJSM) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Coulton Vento](http://twitter.com/@coultonvento) | [GitHub](https://github.com/coultonvento/WWDC-2014) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Daniel Van Der Merwe](https://twitter.com/@danieljvdm) | [GitHub](https://github.com/danieljvdm/Daniel-van-der-Merwe) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [David Roman](https://www.twitter.com/@Dromaguirre) | [GitHub](https://github.com/Dromaguirre/WWDC-2014-Scholarship-App) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Douglas Bumby](http://www.twitter.com/istx25) | [GitHub](https://github.com/istx25/WWDC-2014-Submissions) · [Video](https://www.dropbox.com/s/2cwuvmfjkmm7git/ios-wwdc-app.mov) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| Douglas Ferreira | [Video](https://www.youtube.com/watch?v=eXRwoUBnGXo) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Eytan Schulman](https://twitter.com/zorcan1) |  | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Farzad Nazifi](https://twitter.com/euwars) | [Video](http://youtu.be/gmgbqeiYvFU) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Finn Gaida](https://twitter.com/@FinnGaida) | [GitHub](https://github.com/finngaida/wwdc/tree/master/2014) · [Video](http://www.youtube.com/watch?v=OKKF6o9wduI) | ![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge) |
+| [Frederik Riedel](http://twitter.com/@FrederikRiedel) | [Video](http://youtu.be/8oy6gPt551Q) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [iPhonig](https://twitter.com/iphonig) | [GitHub](https://github.com/iPhonig/WWDC-2014-Student-Scholarship-App) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Isaac Rodríguez](https://twitter.com/@sideround) | [Video](https://www.youtube.com/watch?v=LQFMa-yRrlk) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Isaiah Turner](https://twitter.com/@IsaiahJTurner) | [GitHub](https://github.com/IsaiahJTurner/IsaiahJTurner) · [Video](https://www.facebook.com/photo.php?v=712518992128745) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Jak Tiano](http://twitter.com/@ChasElt) | [GitHub](https://github.com/Jakintosh/WWDC-2014-Application) · [Video](https://www.youtube.com/watch?v=6_zIcACwhuk) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Jaxon Stevens](https://twitter.com/RouteTravel66) |  | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Jeroen van Rijn](http://twitter.com/@Jeroen0704) | [Video](https://www.youtube.com/watch?v=xUt5UCBAoLI) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Jonah Grant](https://twitter.com/@jonahgrant) | [GitHub](https://github.com/jonahgrant/wwdc) · [Video](https://www.facebook.com/photo.php?v=10203790746388689) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| Justin Loew | [GitHub](https://github.com/jloloew/BrailleLearner) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Khaos Tian](https://twitter.com/KhaosT) | [GitHub](https://github.com/KhaosT/WWDC-14-Scholarship-Entry) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Kolin Krewinkel](https://twitter.com/@kkrewink) | [GitHub](https://github.com/kolinkrewinkel/WWDC14) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Kyle Ryan](http://twitter.com/@kylry) | [GitHub](https://github.com/kylry/kyleryan) · [Video](https://www.facebook.com/photo.php?v=10152013038854149) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Kyle Spadaro](https://twitter.com/kylespadaro) |  | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Lars Schwegmann](https://twitter.com/larsschwegmann) | [GitHub](https://github.com/larsschwegmann/WWDC-14) · [Video](https://www.facebook.com/photo.php?v=637685916301320) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| Lea Marolt Sonnenschein | [GitHub](https://github.com/leamars/LeaMaroltSonnenschein) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Leonard Pauli](https://twitter.com/LeonardPauli) | [Video](https://www.youtube.com/watch?v=kvRqZf4E2mU) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Louis Harboe](http://twitter.com/@spiralstairs) |  | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Lukáš Petr](https://twitter.com/luksape) | [Video](http://www.youtube.com/watch?feature=player_embedded&v=kDQ-nnGX9RA) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Lukas Spieß](https://twitter.com/Blubser) | [Video](https://vimeo.com/94400719) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Madhav Narayan](https://www.facebook.com/soccermadhav) |  | ![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge) |
+| [Maijid Moujaled](https://twitter.com/@DrJid) | [GitHub](https://github.com/DrJid/Personal-Portfolio-app) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Marc Cuva](https://twitter.com/marccuva) | [GitHub](https://github.com/mjcuva/WWDC2014) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| Matis De Schutter | [Video](http://www.youtube.com/watch?v=N_YwxvRMpRE) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Matt Zanchelli](https://www.twitter.com/@mdznr) | [GitHub](https://github.com/mdznr/WWDC-2014-Scholarship-Application) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Mayank Jain](https://www.twitter.com/mjmayank1) | [GitHub](https://github.com/mjmayank/WWDC) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Mert Dümenci](http://twitter.com/mertdumenci) | [Video](http://www.youtube.com/watch?v=z_se6loQj-w) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Michal Smialko](https://twitter.com/@msmialko) | [GitHub](https://github.com/Moriquendi/WWDC2014) · [Video](https://twitter.com/msmialko/status/455832748247506944) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Moshe Berman](https://twitter.com/@bermaniastudios) | [GitHub](http://github.com/mosheberman/MosheBerman-iOS) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Nate Chiger](http://twitter.com/natechiger) | [GitHub](https://github.com/natechiger/WWDC-2014-Scholarship) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Neeraj Baid](https://twitter.com/2neeraj) | [GitHub](https://github.com/neerajbaid/WWDC2014) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| Nicholas Gibson | [Video](https://www.youtube.com/watch?v=-KaUURIz9TA) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Nick Frey](http://twitter.com/NickFrey) |  | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Nicola Giancecchi](http://twitter.com/nicorsm) | [Video](http://youtu.be/V3D9OzG3wAQ) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Patrick Balestra](http://twitter.com/@BalestraPatrick) | [GitHub](https://github.com/BalestraPatrick/WWDC-2014-Scholarship) · [Video](http://youtu.be/1nrBQDeDeQg) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Radek Pietruszewski](https://twitter.com/radexp) | [Video](https://www.youtube.com/watch?v=ouumNZu1RAA) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Rameez Remsudeen](http://twitter.com/remzr7) |  | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Rohan Kapur](http://twitter.com/@MCKapur) | [GitHub](https://github.com/MCKapur/WWDC-2014-Scholarship-App) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Sam Turner](http://www.twitter.com/rheotron) | [GitHub](https://github.com/samturner/wwdc-scholarship-2014) · [Video](https://www.youtube.com/watch?v=lu_0gVWN8hA&feature=youtu.be) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Sanjeet Suhag](https://twitter.com/@sanjeetsuhag) | [GitHub](https://github.com/sanjeetsuhag/WWDC-2014-Scholarship-App) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Sjors Snoeren](http://twitter.com/@sjorssnoeren) | [GitHub](https://github.com/SjorsSnoeren/WWDC-App-2014) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Tosin Afolabi](http://twitter.com/@tosinaf) | [GitHub](https://github.com/TosinAF/WWDC-2014) · [Video](http://youtu.be/OVu5M5hHTB8) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Tyler Flowers](https://twitter.com/tdflowers) | [GitHub](https://github.com/Tdflowers/WWDC2014) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Veeral Patel](http://twitter.com/vral) |  | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Victor Ilisei](https://twitter.com/@GeekyLemon) | [GitHub](https://github.com/TechGeniusApps/WWDC-App) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
+| [Vijay Sridhar](https://twitter.com/sridvijay) | [Video](https://www.youtube.com/watch?v=VKcvYUD1pio) | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+| [Yichen Cao](http://twitter.com/schemetrical) |  | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
+
+##### Total: 73 | Awarded: 27
